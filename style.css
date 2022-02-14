@@ -1,0 +1,14 @@
+/*Select an element by the element */
+h1 {
+    color:green;
+    border: 2px solid #000;
+}
+
+p{
+    color: blue
+}
+
+.p1 {
+    color: pink;
+    border-top: 2px red;
+}
